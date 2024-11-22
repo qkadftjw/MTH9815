@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 3/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 3/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 3/src\" -std=gnu++17 -o CMakeFiles/test_hashtable.dir/src/test_hashtable.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 3/src/test_hashtable.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 3/src/test_hashtable.cpp",
+  "output": "CMakeFiles/test_hashtable.dir/src/test_hashtable.cpp.o"
+}
+]

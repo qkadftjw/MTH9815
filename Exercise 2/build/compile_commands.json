@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 2/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 2/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 2/src\" -std=gnu++17 -o CMakeFiles/test_double_linkedlist.dir/src/test_double_linkedlist.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 2/src/test_double_linkedlist.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 2/src/test_double_linkedlist.cpp",
+  "output": "CMakeFiles/test_double_linkedlist.dir/src/test_double_linkedlist.cpp.o"
+}
+]

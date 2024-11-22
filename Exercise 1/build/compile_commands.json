@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 1/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 1/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 1/src\" -std=gnu++17 -o CMakeFiles/test_linkedlist.dir/src/LinkedList.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 1/src/LinkedList.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 1/src/LinkedList.cpp",
+  "output": "CMakeFiles/test_linkedlist.dir/src/LinkedList.cpp.o"
+},
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 1/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 1/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 1/src\" -std=gnu++17 -o CMakeFiles/test_linkedlist.dir/src/ListIterator.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 1/src/ListIterator.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 1/src/ListIterator.cpp",
+  "output": "CMakeFiles/test_linkedlist.dir/src/ListIterator.cpp.o"
+},
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 1/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 1/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 1/src\" -std=gnu++17 -o CMakeFiles/test_linkedlist.dir/src/ListNode.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 1/src/ListNode.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 1/src/ListNode.cpp",
+  "output": "CMakeFiles/test_linkedlist.dir/src/ListNode.cpp.o"
+},
+{
+  "directory": "/home/ftw/mth_9815/HW1/Exercise 1/build",
+  "command": "/usr/bin/g++-13  -I\"/home/ftw/mth_9815/HW1/Exercise 1/include\" -I\"/home/ftw/mth_9815/HW1/Exercise 1/src\" -std=gnu++17 -o CMakeFiles/test_linkedlist.dir/src/test_linkedlist.cpp.o -c \"/home/ftw/mth_9815/HW1/Exercise 1/src/test_linkedlist.cpp\"",
+  "file": "/home/ftw/mth_9815/HW1/Exercise 1/src/test_linkedlist.cpp",
+  "output": "CMakeFiles/test_linkedlist.dir/src/test_linkedlist.cpp.o"
+}
+]
