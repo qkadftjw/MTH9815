@@ -1,5 +1,4 @@
 // test_linkedlist.cpp
-// Author: Fangtong Wang
 // Date: 2024-11-16
 
 #include <iostream>

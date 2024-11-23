@@ -1,5 +1,4 @@
 // ListNode.hpp
-// Author: Fangtong Wang
 // Date: 2024-11-16
 
 #ifndef NODE_HPP

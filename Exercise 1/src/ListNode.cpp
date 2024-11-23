@@ -1,5 +1,4 @@
 // ListNode.cpp
-// Author: Fangtong Wang
 // Date: 2024-11-16
 
 #ifndef LIST_NODE_CPP

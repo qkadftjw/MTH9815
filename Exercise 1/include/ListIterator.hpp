@@ -1,5 +1,4 @@
 // ListIterator.hpp
-// Author: Fangtong Wang
 // Date: 2024-11-16
 
 #ifndef LIST_ITERATOR_HPP

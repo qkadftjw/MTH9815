@@ -1,5 +1,4 @@
 // LinkedList.hpp
-// Author: Fangtong Wang
 // Date: 2024-11-16
 
 #ifndef LINKED_LIST_HPP
