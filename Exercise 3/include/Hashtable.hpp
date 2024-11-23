@@ -1,3 +1,6 @@
+// Hashtable.hpp
+// Date: 2024-11-16
+
 #ifndef HASH_TABLE_HPP
 #define HASH_TABLE_HPP
 

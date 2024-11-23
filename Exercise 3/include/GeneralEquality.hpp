@@ -1,3 +1,6 @@
+// GeneralEquality.hpp
+// Date: 2024-11-16
+
 #ifndef GENERAL_EQUALITY_HPP
 #define GENERAL_EQUALITY_HPP
 

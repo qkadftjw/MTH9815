@@ -1,3 +1,6 @@
+// GeneralHasher.hpp
+// Date: 2024-11-16
+
 #ifndef GENERAL_HASHER_HPP
 #define GENERAL_HASHER_HPP
 

@@ -1,3 +1,6 @@
+// Hasher.hpp
+// Date: 2024-11-16
+
 #ifndef HASHER_HPP
 #define HASHER_HPP
 

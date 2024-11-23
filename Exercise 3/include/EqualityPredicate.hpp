@@ -1,3 +1,6 @@
+// EqualityPredicate.hpp
+// Date: 2024-11-16
+
 #ifndef EQUALITY_PREDICATE_HPP
 #define EQUALITY_PREDICATE_HPP
 
