@@ -3,10 +3,12 @@
 
 #include "EqualityPredicate.hpp"
 
+// Concrete implementation of EqualityPredicate for general equality.
 template <typename T>
 class GeneralEquality : public EqualityPredicate<T> {
 public:
-    bool equals(const T& key1, const T& key2) const override{
+    // Overrides the equals method to compare two keys using the == operator.
+    bool equals(const T& key1, const T& key2) const override {
         return key1 == key2;
     }
 };
